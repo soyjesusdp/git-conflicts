@@ -1,1 +1,1 @@
-console.log("Hola");
+const nav = document.getElementById("Nav");
